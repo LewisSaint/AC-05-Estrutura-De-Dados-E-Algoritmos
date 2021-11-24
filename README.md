@@ -21,6 +21,11 @@ Vinicius Veloso - RA 1905107
 
 1. Tarefa 17: exercícios dos slides de 81 a 84
 
+Fila de Prioridade: https://github.com/LewisSaint/AC-05-Estrutura-De-Dados-E-Algoritmos/tree/master/AC%2005%20-%20Estrutura%20de%20Dados/Tarefa%2017/Fila%20de%20Prioridade
+Arvore Binaria: https://github.com/LewisSaint/AC-05-Estrutura-De-Dados-E-Algoritmos/tree/master/AC%2005%20-%20Estrutura%20de%20Dados/Tarefa%2017/Árvore%20Binária%20Completa
+Fila de Prioridade Heap: https://github.com/LewisSaint/AC-05-Estrutura-De-Dados-E-Algoritmos/tree/master/AC%2005%20-%20Estrutura%20de%20Dados/Tarefa%2017/Heap%20Fila%20de%20Prioridade
+
+
 2. Qual é a saída (desenho do heap) da seguinte sequência de métodos do TAD fila de prioridade: insert(5, A), insert(4, B), insert(7, I), insert(1, D), removeMin( ), insert(3, J), insert(6, L), removeMin( ), removeMin( ), insert(8, G), removeMin( ), insert(2, H), removeMin(), removeMin()?
 
 - [x] 3. Um aeroporto quer simular o tráfego aéreo com eventos como decolagens e pousos. Os eventos têm um time-stamp com a hora em que o evento acontece. O simulador deve realizar eficientemente as duas operações fundamentais a seguir:
@@ -59,6 +64,8 @@ Vinicius Veloso - RA 1905107
 
 Tarefa 18: exercícios dos slides 84 a 85
 
+https://github.com/LewisSaint/AC-05-Estrutura-De-Dados-E-Algoritmos/tree/master/AC%2005%20-%20Estrutura%20de%20Dados/Tarefa%2018/Mapa
+
 - [x] 1. Qual dos esquemas de tratamento de colisão de tabela hash consegue tolerar um fator de carga superior a 1 e qual não consegue?
 
      R: Consegue – Hashing Suplo
@@ -84,7 +91,11 @@ Não consegue – Endereçamento aberto
 
 Tarefa 19: exercícios do slide 16
 
+https://github.com/LewisSaint/AC-05-Estrutura-De-Dados-E-Algoritmos/tree/master/AC%2005%20-%20Estrutura%20de%20Dados/Tarefa%2019/Dicionário
+
 Tarefa 20: exercícios do slide 29
+
+https://github.com/LewisSaint/AC-05-Estrutura-De-Dados-E-Algoritmos/tree/master/AC%2005%20-%20Estrutura%20de%20Dados/Tarefa%2020/Mapa%20Ordenado
 
  - [x] 2. Inserindo-se as entradas (1,A), (2,B), (3,C), (4,D) e (5,E), nessa ordem, em uma árvore de pesquisa binária inicialmente vazia, qual será sua aparência?
   
@@ -109,6 +120,9 @@ Ex2: 5 – 6 – 1 – 3
 
 
 Tarefa 21: exercícios dos slides 39 e 40
+
+https://github.com/LewisSaint/AC-05-Estrutura-De-Dados-E-Algoritmos/tree/master/AC%2005%20-%20Estrutura%20de%20Dados/Tarefa%2021/Mapa%20AVL/src
+
 
 - [x] 2. Inserindo-se as entradas (1,A), (2,B), (3,C), (4,D) e (5,E), nessa ordem, em uma árvore AVL inicialmente vazia, qual será sua aparência?
 
