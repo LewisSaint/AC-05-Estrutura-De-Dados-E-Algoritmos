@@ -19,7 +19,7 @@ Vinicius Veloso - RA 1905107
 
 
 
-Tarefa 17: exercícios dos slides de 81 a 84
+1. Tarefa 17: exercícios dos slides de 81 a 84
 
 2. Qual é a saída (desenho do heap) da seguinte sequência de métodos do TAD fila de prioridade: insert(5, A), insert(4, B), insert(7, I), insert(1, D), removeMin( ), insert(3, J), insert(6, L), removeMin( ), removeMin( ), insert(8, G), removeMin( ), insert(2, H), removeMin(), removeMin()?
 
@@ -88,6 +88,7 @@ Tarefa 20: exercícios do slide 29
 
  - [x] 2. Inserindo-se as entradas (1,A), (2,B), (3,C), (4,D) e (5,E), nessa ordem, em uma árvore de pesquisa binária inicialmente vazia, qual será sua aparência?
   
+![image](https://user-images.githubusercontent.com/88804560/143318381-6f80c12f-96a7-4896-843c-e3f0a32e894b.png)
 
  
  3. Define-se uma árvore binária de pesquisa em que as chaves iguais à chave do nodo podem estar ou à esquerda ou à direita da subárvore deste nodo. Suponha que se altere a definição na qual restringimos chaves iguais na subárvore à direita. Qual seria a subárvore de uma árvore binária de pesquisa que contenha somente chaves iguais, como visto neste caso?
@@ -102,22 +103,27 @@ Tarefa 20: exercícios do slide 29
 Ex1: 3 – 1 – 6 – 5
 Ex2: 5 – 6 – 1 – 3 
 
+![image](https://user-images.githubusercontent.com/88804560/143318419-cdb5b3e3-ec7b-497c-9a98-1458c08ba2f8.png)
+
+![image](https://user-images.githubusercontent.com/88804560/143318435-765fbc0c-3914-45af-b6d5-9fcb5c743a15.png)
 
 
 Tarefa 21: exercícios dos slides 39 e 40
 
 - [x] 2. Inserindo-se as entradas (1,A), (2,B), (3,C), (4,D) e (5,E), nessa ordem, em uma árvore AVL inicialmente vazia, qual será sua aparência?
 
+![image](https://user-images.githubusercontent.com/88804560/143318481-6171ca3e-1c71-4c5c-9ba8-139b02d505e2.png)
 
 
 
 3. O professor Amongus afirma que a ordem na qual um conjunto fixo de itens é inserido em uma árvore AVL não interessa — sempre resulta na mesma árvore. Apresente um pequeno exemplo que prove que ele está errado.
 
 4. Desenhe a árvore AVL resultante da inserção de um elemento com chave 52 na árvore AVL abaixo.
+![image](https://user-images.githubusercontent.com/88804560/143318512-76d352df-9be4-4e5f-b7f6-dbc61575c625.png)
 
-
-
+![image](https://user-images.githubusercontent.com/88804560/143318532-8c4e605d-282e-401c-aa55-b8ca6919cedb.png)
 
 5. Desenhe a árvore AVL resultante da remoção de um elemento com chave 62 na árvore AVL após a inserção da chave 52 na árvore AVL abaixo.
 
+![image](https://user-images.githubusercontent.com/88804560/143318554-e6547957-98f7-448b-9f14-f01ecb663bbb.png)
 
