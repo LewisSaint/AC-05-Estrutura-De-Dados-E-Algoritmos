@@ -7,6 +7,18 @@ Willian Matheus Montalbo - RA 1904587
 Vinicius Veloso - RA 1905107  
 
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
 Tarefa 17: exercícios dos slides de 81 a 84
 
 2. Qual é a saída (desenho do heap) da seguinte sequência de métodos do TAD fila de prioridade: insert(5, A), insert(4, B), insert(7, I), insert(1, D), removeMin( ), insert(3, J), insert(6, L), removeMin( ), removeMin( ), insert(8, G), removeMin( ), insert(2, H), removeMin(), removeMin()?
