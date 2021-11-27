@@ -28,6 +28,10 @@ Fila de Prioridade Heap: https://github.com/LewisSaint/AC-05-Estrutura-De-Dados-
 
 2. Qual é a saída (desenho do heap) da seguinte sequência de métodos do TAD fila de prioridade: insert(5, A), insert(4, B), insert(7, I), insert(1, D), removeMin( ), insert(3, J), insert(6, L), removeMin( ), removeMin( ), insert(8, G), removeMin( ), insert(2, H), removeMin(), removeMin()?
 
+R:
+![slide 17 - ex2](https://user-images.githubusercontent.com/79374598/143667148-2edb729a-61a7-4933-b5d3-b6185d9b1745.jpg)
+
+
 - [x] 3. Um aeroporto quer simular o tráfego aéreo com eventos como decolagens e pousos. Os eventos têm um time-stamp com a hora em que o evento acontece. O simulador deve realizar eficientemente as duas operações fundamentais a seguir:
 
    • inserir um evento com um dado time-stamp (ou seja, inserir um evento futuro);
@@ -54,7 +58,15 @@ Fila de Prioridade Heap: https://github.com/LewisSaint/AC-05-Estrutura-De-Dados-
 
 9. Bill afirma que um caminhamento prefixado em um heap listará as chaves em ordem não-decrescente. Apresente um exemplo de um heap que prove que ele está errado.
 
+R:
+![slide 17 - Ex9](https://user-images.githubusercontent.com/79374598/143666469-bf055e4a-72c7-4dba-ba68-079d03aafda9.jpg)
+
+
 10. Hillary afirma que um caminhamento pós-fixado em um heap listará as chaves em ordem não-crescente. Apresente um exemplo de um heap que prove que ela está errada.
+
+R:
+![slide 17 - Ex10](https://user-images.githubusercontent.com/79374598/143666489-0a01e0a3-3ee8-4025-8d09-25d6614044f1.jpg)
+
 
 11. Apresente todos os passos do algoritmo para remover a chave 16 do heap abaixo:
 
@@ -68,7 +80,7 @@ https://github.com/LewisSaint/AC-05-Estrutura-De-Dados-E-Algoritmos/tree/master/
 
 - [x] 1. Qual dos esquemas de tratamento de colisão de tabela hash consegue tolerar um fator de carga superior a 1 e qual não consegue?
 
-     R: Consegue – Hashing Suplo
+     R: Consegue – Hashing Duplo
 Não consegue – Endereçamento aberto
 
      
@@ -99,7 +111,7 @@ https://github.com/LewisSaint/AC-05-Estrutura-De-Dados-E-Algoritmos/tree/master/
 
  - [x] 2. Inserindo-se as entradas (1,A), (2,B), (3,C), (4,D) e (5,E), nessa ordem, em uma árvore de pesquisa binária inicialmente vazia, qual será sua aparência?
   
-![image](https://user-images.githubusercontent.com/88804560/143318381-6f80c12f-96a7-4896-843c-e3f0a32e894b.png)
+![EX 20 - 2](https://user-images.githubusercontent.com/79374598/143666768-af563fe4-62ee-439b-b679-95327c0dde84.jpg)
 
  
  3. Define-se uma árvore binária de pesquisa em que as chaves iguais à chave do nodo podem estar ou à esquerda ou à direita da subárvore deste nodo. Suponha que se altere a definição na qual restringimos chaves iguais na subárvore à direita. Qual seria a subárvore de uma árvore binária de pesquisa que contenha somente chaves iguais, como visto neste caso?
@@ -131,6 +143,14 @@ https://github.com/LewisSaint/AC-05-Estrutura-De-Dados-E-Algoritmos/tree/master/
 
 
 3. O professor Amongus afirma que a ordem na qual um conjunto fixo de itens é inserido em uma árvore AVL não interessa — sempre resulta na mesma árvore. Apresente um pequeno exemplo que prove que ele está errado.
+
+Ex1: 11 - 5 - 3 - 6 - 1
+Ex2: 6 - 1 - 3 - 11 - 5
+
+![slide 21 - 3](https://user-images.githubusercontent.com/79374598/143667022-f6a55bd4-3528-4c58-90fd-a4d08fc679d5.jpg)
+
+![slide 21 -3 2](https://user-images.githubusercontent.com/79374598/143667033-e37a0d7f-d9dc-40d9-8041-4d2d286bed2c.jpg)
+
 
 4. Desenhe a árvore AVL resultante da inserção de um elemento com chave 52 na árvore AVL abaixo.
 ![image](https://user-images.githubusercontent.com/88804560/143318512-76d352df-9be4-4e5f-b7f6-dbc61575c625.png)
